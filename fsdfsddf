@@ -1,0 +1,268 @@
+[33mcommit 07591d7cb0a726bfe72414336d17db7a4bc44b95[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfixed[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmaster[m[33m, [m[1;32mmain[m[33m)[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Tue May 6 01:14:52 2025 +0530
+
+    Added License (#11)
+    
+    Add MIT License and update demo link in README
+
+[33mcommit 59406f3ad9935042e3c5a2a2988aa8d6c190e8fa[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Tue May 6 01:09:20 2025 +0530
+
+    readme update (#10)
+    
+    * readme update
+
+[33mcommit 03b1c05bea2e339beea59af87dfa614452635a5a[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Tue May 6 01:04:22 2025 +0530
+
+    SEO optimizations
+    
+    Enhance README and metadata for Next.js portfolio template; add structured data, improve SEO
+
+[33mcommit 9d4f1965c8a82bd1eacaf7d86c375664f17cb115[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Tue May 6 00:40:35 2025 +0530
+
+    feat: add career timeline and detail pages with animations and images (#8)
+    
+    * feat: add career timeline and detail pages with animations and images
+    
+    * remove logo
+    
+    * image correction
+
+[33mcommit deb12319e4dd51d40f653d1c7501180392cbf278[m
+Merge: e9bd0b9 f871dbd
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sun Mar 16 05:07:22 2025 +0530
+
+    Merge pull request #7 from namanbarkiya/cursor-animations-and-web-text
+    
+    Animations and themes
+
+[33mcommit f871dbd523e822fdf2717592b3e1c8f54191faf2[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sun Mar 16 05:04:03 2025 +0530
+
+    added 5 themes
+
+[33mcommit 1dfd17c4228815b0aebb1e7a3f1bdb8c1fbf72a5[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sun Mar 16 04:43:19 2025 +0530
+
+    nav center for website
+
+[33mcommit 693ce79aabe1502d273a2d6bc56ea1aa7e6861d2[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sun Mar 16 04:30:09 2025 +0530
+
+    updated exp for all projects
+
+[33mcommit 28e20fa272fb5904009eec146036d3e8e517fa3e[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sun Mar 16 04:06:14 2025 +0530
+
+    added web animations on sections and pages using framer motion
+
+[33mcommit e9bd0b942a3d70c48cd44ba96c312a4a590318bf[m
+Merge: 5cb99f7 71bf4db
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sun Dec 15 00:37:54 2024 +0530
+
+    Merge pull request #4 from namanbarkiya/namanbarkiya-patch-1
+    
+    Update README.md
+
+[33mcommit 71bf4db2c449114992cc37762b2211ad276b0719[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sun Dec 15 00:37:27 2024 +0530
+
+    Update README.md
+
+[33mcommit 5cb99f7b291c5942e8f9398a60706bdbf7301c90[m
+Merge: 8f98fb6 90fa61e
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sun Dec 15 00:36:45 2024 +0530
+
+    Merge pull request #3 from namanbarkiya/namanbarkiya-patch-1
+    
+    Update README.md
+
+[33mcommit 90fa61e3222f8ecde6b8d7880a152c6051116225[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sun Dec 15 00:36:21 2024 +0530
+
+    Update README.md
+
+[33mcommit 8f98fb607b6fb032816702aeab85456938a0a9ea[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sat Nov 30 01:49:41 2024 +0530
+
+    Socials: linkedin link update
+
+[33mcommit b27ee835b9060982c3111e3c1e81583d03552b69[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sat Nov 30 01:45:54 2024 +0530
+
+    revert: contribution card changes for test
+
+[33mcommit 166db976ec5a6ef3525b4ad5cc6a83e759cdc9ba[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sun Nov 24 11:47:24 2024 +0530
+
+    Navbar fix for author name
+
+[33mcommit 5c6341cf5f64185f7a80313d431224c1598f509f[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sun Nov 24 11:44:35 2024 +0530
+
+    added metadataBase
+
+[33mcommit 57536a33b1d6282959301fd36e1557a6705177dc[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sun Nov 24 11:38:52 2024 +0530
+
+    SEO updates
+
+[33mcommit 109ea42bb68281e9ce849aa848d526c5ec064460[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sun Nov 24 01:31:32 2024 +0530
+
+    Github redirect card for contact form
+
+[33mcommit bdf78ed7aa3bb48b45ac8362832ae32a91a2c858[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sun Nov 24 01:00:09 2024 +0530
+
+    import and gitignore minor updates
+
+[33mcommit 70296317e74f6f1415a7078caf516fe84725daac[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sun Nov 24 00:53:57 2024 +0530
+
+    Prettier with import plugin added: run on full project
+
+[33mcommit 894968cc0e1610f02fdb195b138e89b0fbc48d46[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sun Nov 24 00:48:22 2024 +0530
+
+    added Container replacing Header Component
+
+[33mcommit 3109f2670d406736db3c641be065ded58ab43998[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sun Nov 24 00:47:44 2024 +0530
+
+    Page container component created
+
+[33mcommit 019e1cbdeca752c212e20d152ce3dff0a1dcecb9[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sun Nov 24 00:35:57 2024 +0530
+
+    Restructure components folder, pre-req for page layout component
+
+[33mcommit 9714f77a9a61126f8750adffe65e1ec20f4e7046[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Sat Nov 23 23:55:42 2024 +0530
+
+    config cleanup
+
+[33mcommit f1d09af3a240570b450add96ff00d5e2f266c102[m
+Merge: e3bd900 99a23c1
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Mon Jul 1 23:14:59 2024 +0530
+
+    Merge pull request #2 from CerealNotFound/fix/nav
+    
+    fix: nav transition and position
+
+[33mcommit 99a23c17312cce0f2034db5d1ee519efd6038f91[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Wed Jun 26 15:29:22 2024 +0530
+
+    fix: nav transition and position
+
+[33mcommit e3bd90080c0f5752674d98df90ed15bdc70ccb5c[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Wed May 1 20:32:58 2024 +0530
+
+    singlebit contact route added (personal)
+
+[33mcommit 6645708f28ecab6e049fd2bfc77a3c4030cba44a[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Thu Apr 4 23:04:20 2024 +0530
+
+    Contact button update
+
+[33mcommit 93dc1c4feec810c8946de2e25ed641b8fb567ed1[m
+Merge: 46ac97a 0baa68e
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Thu Apr 4 22:56:59 2024 +0530
+
+    Merge pull request #1 from namanbarkiya/contrib-page
+    
+    Page: contributions page
+
+[33mcommit 0baa68e50f3b158f7f63c22745d3b8ea28df6145[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Thu Apr 4 22:54:09 2024 +0530
+
+    Navbar positioning
+
+[33mcommit 46ac97aa20cc8871cc7185410fdfeea14e20026c[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Mon Apr 1 04:46:05 2024 +0530
+
+    env updated
+
+[33mcommit cd56f33b62a8cf4b0a5f58995fa77b95c83acf1c[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Mon Apr 1 04:44:12 2024 +0530
+
+    Feature: resume link added
+
+[33mcommit 263cb72b7d0bdeff6852c7021e5c11aa89c71a6c[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Tue Feb 6 04:15:37 2024 +0530
+
+    Page added: Contributions page and route updated
+
+[33mcommit 8b822c040ab6a118938fd938885115d581eab7df[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Fri Feb 2 03:50:36 2024 +0530
+
+    Added Insights
+
+[33mcommit a9500fa651bcb9abcd443c0d75219e6a123605fc[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Wed Jan 31 18:13:08 2024 +0530
+
+    Update README.md: Added Video
+
+[33mcommit 8e35b93463264163cfb454b16433310eb6af0384[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Wed Jan 31 17:12:11 2024 +0530
+
+    Update README.md
+
+[33mcommit 1f7dbf0685ad564c0ac4620050b89e0565fb1358[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Tue Jan 30 14:55:55 2024 +0530
+
+    Upgrade: Nextjs 14
+
+[33mcommit f47a47c30c02d47902d43acd2dbe6dde6aa3fce7[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Tue Jan 30 14:48:15 2024 +0530
+
+    Analytics: added google analytics
+
+[33mcommit b26133915ded3b99449ca6df8f86b147ccf41921[m
+Author: IsaacLaurent <isaaclaurent0909@gmail.com>
+Date:   Tue Jan 30 14:34:10 2024 +0530
+
+    Gform, blog: added env for gform and blog test name issue fix
+
+[33mcommit 7dc071cfd6b13b9009741590640ca16842b
