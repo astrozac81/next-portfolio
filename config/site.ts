@@ -6,7 +6,7 @@ export const siteConfig = {
     "Isaac Laurent's portfolio - A modern, responsive Next.js portfolio for developers. This open-source template can be customized to showcase your own skills, projects, and professional experience.",
   url: "https://isaaclaurent.xyz",
   links: {
-    github: "https://github.com/isaac-laurent",
+    github: "https://github.com/astrozac81",
   },
   ogImage: "https://isaaclaurent.xyz/isaac-img.jpg",
   iconIco:

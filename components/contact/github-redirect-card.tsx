@@ -19,9 +19,8 @@ export default function GithubRedirectCard() {
       <CardContent className="p-8 flex flex-col items-center text-center">
         <div className="mb-6">
           <Heart
-            className={`w-12 h-12 transition-colors duration-300 ease-out ${
-              isHovered ? "text-red-500" : "text-muted-foreground"
-            }`}
+            className={`w-12 h-12 transition-colors duration-300 ease-out ${isHovered ? "text-red-500" : "text-muted-foreground"
+              }`}
           />
         </div>
         <h2 className="font-heading text-xl tracking-tight lg:text-3xl duration-300">
@@ -34,7 +33,7 @@ export default function GithubRedirectCard() {
       </CardContent>
       <CardFooter className="px-8 pb-8 pt-0">
         <Link
-          href={"https://github.com/Isaac-Laurent/next.js-portfolio"}
+          href={"https://github.com/astrozac81/next-portfolio"}
           target="_blank"
           className={cn(
             buttonVariants({ variant: "outline" }),
@@ -46,9 +45,8 @@ export default function GithubRedirectCard() {
         </Link>
       </CardFooter>
       <div
-        className={`h-1 bg-gradient-to-r from-red-500 to-red-500 transition-all duration-300 ease-out ${
-          isHovered ? "opacity-100" : "opacity-0"
-        }`}
+        className={`h-1 bg-gradient-to-r from-red-500 to-red-500 transition-all duration-300 ease-out ${isHovered ? "opacity-100" : "opacity-0"
+          }`}
       ></div>
     </Card>
   );

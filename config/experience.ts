@@ -173,7 +173,7 @@ export const Experiences: ExperienceInterface[] = [
     category: ["Mobile Dev", "Full Stack", "UI/UX"],
     shortDescription:
       "Developed a feature-rich mobile shopping application with admin panel, user authentication, and seamless product management using React Native and Firebase.",
-    githubLink: "https://github.com/isaac-laurent/apex-shopping-app",
+    githubLink: "https://github.com/astrozac81/apex-shopping-app",
     techStack: ["React Native", "Javascript", "Redux", "Node.js", "express.js"],
     startDate: new Date("2021-07-14"),
     endDate: new Date("2022-07-01"),
@@ -296,7 +296,7 @@ export const Experiences: ExperienceInterface[] = [
     shortDescription:
       "Forged an immersive 3D Portfolio Card utilizing the prowess of Three.js and Blender, where art and technology converge in an interactive masterpiece.",
     websiteLink: "https://card.namanbarkiya.xyz/",
-    githubLink: "https://github.com/isaac-laurent/3d-portfolio-card",
+    githubLink: "https://github.com/astrozac81/3d-portfolio-card",
     techStack: ["React", "Javascript", "HTML 5", "CSS 3"],
     startDate: new Date("2022-03-01"),
     endDate: new Date("2022-07-01"),
@@ -393,7 +393,7 @@ export const Experiences: ExperienceInterface[] = [
     shortDescription:
       "Developed a user-friendly website for Inscript Hindi typing, addressing the need for a simple tool for Hindi writers to convey data digitally.",
     websiteLink: "https://hindityping.namanbarkiya.xyz",
-    githubLink: "https://github.com/isaac-laurent/inscript-hindi-keyboard",
+    githubLink: "https://github.com/astrozac81/inscript-hindi-keyboard",
     techStack: ["HTML 5", "CSS 3", "Javascript"],
     startDate: new Date("2022-05-01"),
     endDate: new Date("2022-06-15"),

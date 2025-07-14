@@ -10,26 +10,26 @@ interface SocialInterface {
 export const SocialLinks: SocialInterface[] = [
   {
     name: "Github",
-    username: "@Isaac Laurent",
+    username: "AstroZac",
     icon: Icons.gitHub,
-    link: "https://github.com/Isaac-Laurent",
+    link: "https://github.com/astrozac81",
   },
   {
     name: "Discord",
-    username: "@Isaac Laurent",
+    username: "Astrozac",
     icon: Icons.discord,
-    link: "https://discord.com/invite/isaaclaurent",
+    link: "https://discord.com/invite/_zac.attack_",
   },
   {
     name: "Telegram",
     username: "@Isaac Laurent",
     icon: Icons.telegram,
-    link: "https://t.me/isaaclaurent",
+    link: "https://t.me/kittycoin903",
   },
   {
     name: "Gmail",
     username: "@Isaac Laurent",
     icon: Icons.gmail,
-    link: "mailto:isaaclaurent@gmail.com",
+    link: "mailto:isaac.laurent77@gmail.com",
   },
 ];
