@@ -12,7 +12,7 @@ export const SocialLinks: SocialInterface[] = [
     name: "Github",
     username: "AstroZac",
     icon: Icons.gitHub,
-    link: "https://github.com/astrozac81",
+    link: "https://github.com/LRenzo0801",
   },
   {
     name: "Discord",

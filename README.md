@@ -32,7 +32,7 @@ To get started with your own portfolio website:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/astrozac81/next.js-portfolio my-portfolio
+   git clone https://github.com/LRenzo0801/next.js-portfolio my-portfolio
    cd my-portfolio
    ```
 
@@ -109,7 +109,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgements
 
 - Design inspired by modern portfolio best practices
-- Built by [Isaac Laurent](https://github.com/astrozac81)
+- Built by [Isaac Laurent](https://github.com/LRenzo0801)
 - Icons from [Lucide](https://lucide.dev/)
 
 ## 💻 Deploy on Vercel
