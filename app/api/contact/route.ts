@@ -1,27 +1,25 @@
 import { NextResponse } from "next/server";
+import sgMail from "@sendgrid/mail";
 
 export async function POST(req: Request) {
-  const formLink = process.env.GOOGLE_FORM_LINK;
-  if (!formLink) {
-    return new NextResponse("Please configure the env variables", {
-      status: 500,
-    });
-  }
-
-  // configure this according to your google form
-  const fieldIdName = process.env.GOOGLE_FORM_FIELD_ID_NAME;
-  const fieldIdEmail = process.env.GOOGLE_FORM_FIELD_ID_EMAIL;
-  const fieldIdMessage = process.env.GOOGLE_FORM_FIELD_ID_MESSAGE;
-  const fieldIdSocial = process.env.GOOGLE_FORM_FIELD_ID_SOCIAL;
-
   try {
     const body = await req.json();
     const { name, message, social, email } = body;
 
-    const res = await fetch(
-      `${formLink}/formResponse?${fieldIdName}=${name}&${fieldIdEmail}=${email}&${fieldIdMessage}=${message}&${fieldIdSocial}=${social}`
-    );
+    sgMail.setApiKey(process.env.SENDGRID_API_KEY!);
 
+    const msg = {
+      to: "isaac.laurent77@gmail.com",
+      from: process.env.SENDGRID_FROM_EMAIL!, // Must be verified with SendGrid
+      subject: `New Contact Form Submission from ${name}`,
+      text: `Name: ${name}\nEmail: ${email}\nSocial: ${social}\nMessage: ${message}`,
+      html: `<p><strong>Name:</strong> ${name}</p>
+             <p><strong>Email:</strong> ${email}</p>
+             <p><strong>Social:</strong> ${social}</p>
+             <p><strong>Message:</strong><br/>${message}</p>`,
+    };
+
+    await sgMail.send(msg);
     return NextResponse.json("Success!");
   } catch (error) {
     console.log(error);
