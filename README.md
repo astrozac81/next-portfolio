@@ -15,6 +15,7 @@ A modern, responsive, and SEO-optimized **Next.js 14 portfolio template** design
 - **Analytics Integration**: Ready for Google Analytics tracking
 - **Contact Form**: Functional contact form with validation
 - **Open Source**: Free to use and modify for your personal portfolio
+
 ## 🛠️ Tech Stack
 
 - **Framework**: [Next.js 14](https://nextjs.org/)
@@ -27,16 +28,20 @@ A modern, responsive, and SEO-optimized **Next.js 14 portfolio template** design
 
 ## 🔧 Getting Started
 
-To get started with your own portfolio website:
+Follow these steps to launch the app locally:
 
-1. Clone this repository:
+### 1. Clone the Repository
 
-   ```bash
-   git clone https://github.com/LRenzo0801/next.js-portfolio my-portfolio
-   cd my-portfolio
-   ```
+```bash
+git clone https://github.com/LRenzo0801/next.js-portfolio my-portfolio
+cd my-portfolio
+```
+Replace the URL with your own if you're forking or modifying
 
-2. Copy the contents of `.env.copy` to a new `.env` file and fill in the required information.
+2. Set up Environment variables.
+``bash
+cp .env.copy .env,local
+```
 
 3. Install dependencies:
 
@@ -48,7 +53,16 @@ To get started with your own portfolio website:
    pnpm install
    ```
 
-4. Start the development server:
+4. Start run Test (optional)
+  ```bash
+  npm test
+  # or
+  yarn test
+  # or
+  pnpm test
+  ```
+
+5. Start the development server:
 
    ```bash
    npm run dev
@@ -58,7 +72,7 @@ To get started with your own portfolio website:
    pnpm dev
    ```
 
-5. Open [http://localhost:3000](http://localhost:3000) in your web browser to see the website.
+6. Open [http://localhost:3000](http://localhost:3000) in your web browser to see the website.
 
 ## 🎨 Customization
 
